@@ -10,7 +10,9 @@ This is Auto visitor website
 
 
 git clone https://github.com/haimaslian/visitor-auto/
+
 cd visitor-auto
+
 php boom.php 
 
 
